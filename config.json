@@ -1,0 +1,7 @@
+{
+  "apis": [
+    "https://api.github.com",
+    "https://jsonplaceholder.typicode.com/posts",
+    "https://this-api-does-not-exist.com"
+  ]
+}

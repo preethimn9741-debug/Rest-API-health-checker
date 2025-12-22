@@ -1,0 +1,4 @@
+API,Status Code,Response Time (ms),Status
+https://api.github.com,200,791,UP
+https://jsonplaceholder.typicode.com/posts,200,731,UP
+https://this-api-does-not-exist.com,ERROR,timeout,DOWN
