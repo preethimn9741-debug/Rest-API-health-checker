@@ -27,20 +27,6 @@ It sends HTTP requests to configured API endpoints, measures response time, dete
    - `api_health.csv`
    - `api_health.html`
 
----
-
-## Configuration
-The `config.json` file contains the list of APIs to check.
-
-Example:
-```json
-{
-  "apis": [
-    "https://api.github.com",
-    "https://jsonplaceholder.typicode.com/posts"
-  ]
-}
-
 How to Run
 python health_checker.py
 
