@@ -34,7 +34,7 @@ The project supports configuration-based API checks, logging, report generation,
 ##  Project Structure
 
 api-health-checker/
-│
+
 
 ├── app.py # Flask web application
 
@@ -84,7 +84,7 @@ api-health-checker/
 
    python app.py
 
- 5.Running Test Cases 
+5.Running Test Cases 
  
    python -m pytest
    
