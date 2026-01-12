@@ -84,7 +84,7 @@ api-health-checker/
 
    python app.py
 
-5.Running Test Cases 
+5. Running Test Cases 
  
    python -m pytest
    
