@@ -35,6 +35,7 @@ The project supports configuration-based API checks, logging, report generation,
 
 api-health-checker/
 │
+
 ├── app.py # Flask web application
 
 ├── health_checker.py # Core API health check logic
